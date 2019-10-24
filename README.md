@@ -14,3 +14,7 @@ cd ../ && react-native run-ios --simulator "iPhone 11"
 Check if Metro Bundler is aready started or not
 If not, run:
 yarn start
+
+# Run android dev:
+Make sure you install android SDK and environment correctly
+react-native run-android
